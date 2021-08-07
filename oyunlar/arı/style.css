@@ -20,7 +20,7 @@ body{
     position: absolute;
     width: 39px;
     height: 42px;
-    background: url(arı.png);
+    background: url(trex.png);
     bottom:0;
     
 }
@@ -32,7 +32,7 @@ body{
     position: absolute;
     width: 23px;
     height: 46px;
-    background: url(zombi.png);
+    background: url(kaktus.png);
     bottom: 0;
     left:775px;
 }
